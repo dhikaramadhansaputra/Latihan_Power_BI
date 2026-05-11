@@ -1,0 +1,19 @@
+https://www.youtube.com/watch?v=wDsJp-PWIi4
+==============================================
+
+Catatan:
+(DONE) 1. Bikin measure revenue (pake sumx) - missal pake rumus biasa?
+(DONE) 2. bikin tax 5% pake measure/calculated column
+(DONE) 3. bikin net revenue
+(DONE) 4. Bikin profit
+(DONE) 5. bikin gross profit margin (profit/net revenue)
+(DONE) 6. bikin data bar profit
+
+(DONE) 1. Bikin donut churt quantity per payment
+
+
+(PROSES) 1. Bikin revenue per category pakai grafik batang
+
+=======================================
+
+Catatan : terakhir menit 22:15
