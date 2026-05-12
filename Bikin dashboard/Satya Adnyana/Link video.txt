@@ -12,8 +12,22 @@ Catatan:
 (DONE) 1. Bikin donut churt quantity per payment
 
 
-(PROSES) 1. Bikin revenue per category pakai grafik batang
+(DONE) 1. Bikin revenue per category pakai grafik batang
+
+(DONE) Bikin line chart profit
+
+(DONE) Bikin rata rata rating pakai funnel chart
+
+(DONE) Bikin KPI (total produk, total kuantiti, total revenue, net revenue, profit)
+
+(DONE) Bikin slicer (date (bulan, tahun), customer type, gender)
+
+(DONE) judul
+
+(PROSES) Rapihin
+
+** Kalo bisa tambahkan perbandingan dengan time series? (GADA YG BISA)
 
 =======================================
 
-Catatan : terakhir menit 22:15
+Catatan : DONE
