@@ -1,0 +1,21 @@
+Link video: https://www.youtube.com/watch?v=9xtLt_y-G9k&list=PLvQ28nSMX8CnyzNTaVu-FjfX-A1agZvwK&index=1
+
+======================================================
+(DONE) sesuaikan tipe data & ubah titik ke koma biar currency ga berubah Waktu tipe datanya dirubah
+
+(DONE) bikin measuer 50% dari internal budget
+
+(DONE) bikin measure reduction needed (external budget - 50 internal budget) tapi pake MAX (0, ...) biar yang mines ga keluar
+
+(DONE) Bikin KPI (Internal Budget, 50 % internal budget, externa budget, All budget)
+
+Bikin visualisasi:
+(DONE) budget source evaluation by unit
+(DONE) Internal budget vs external budget by year
+(DONE) Reduction budget needed by each unit
+
+(DONE) bikin dropdown slicer work program group
+
+(PROSES) bikin judul "WBP Budget Report 2016-2024" + logonya cari di google (wordl bank)
+
+RAPIKAN
