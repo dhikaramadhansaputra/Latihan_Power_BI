@@ -1,0 +1,32 @@
+Link Video: https://www.youtube.com/watch?v=QcTeeBrL6EY
+=======================================================
+NOTE : PAKE BAHASA INDO BIAR ENAK DILIAT, SEKALIAN BUAT PORTO MUNGKIN?
+
+
+(DONE) Data Preparation
+
+(PROSES) Bikin juudl + logo + background canvas (#E6E6E6 judul, #EEF1F7)
+
+Bikin KPI: background color #F5F8FF   
+(DONE) jumlah karyawan
+(PROSES) Active employee
+(DONE) kayrawan tidak aktif
+(DONE) Atrition rate %
+(DONE) average age
+(DONE) avg experience
+(akhiran aja) KASIH ICON, cari
+
+VISUALISASI:
+(DONE) orang non aktif by department
+perbandingan salary slab pake attrition (yes dan no)
+Bikin table detail karyawan non aktif per job dan satisfaction level
+bikin grafik distribusi umur
+orang keluar by gender
+orang keluar by experience
+orang aktif by department
+
+SLICER:
+department
+Age group
+
+RAPIKANN
