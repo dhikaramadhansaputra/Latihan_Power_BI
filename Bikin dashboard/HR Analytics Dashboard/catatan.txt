@@ -1,6 +1,6 @@
 Link Video: https://www.youtube.com/watch?v=QcTeeBrL6EY
 =======================================================
-NOTE : PAKE BAHASA INDO BIAR ENAK DILIAT, SEKALIAN BUAT PORTO MUNGKIN?
+NOTE : PAKE BAHASA INDO BIAR ENAK DILIAT, SEKALIAN BUAT PORTO MUNGKIN? JANGAN BUAT PORTO
 
 
 (DONE) Data Preparation
@@ -9,21 +9,22 @@ NOTE : PAKE BAHASA INDO BIAR ENAK DILIAT, SEKALIAN BUAT PORTO MUNGKIN?
 
 Bikin KPI: background color #F5F8FF   
 (DONE) jumlah karyawan
-(PROSES) Active employee
+(DONE) Active employee
 (DONE) kayrawan tidak aktif
 (DONE) Atrition rate %
 (DONE) average age
 (DONE) avg experience
 (akhiran aja) KASIH ICON, cari
+SESUAIKAN UKURAN KPI, TERLALU GEDE
 
 VISUALISASI:
 (DONE) orang non aktif by department
-perbandingan salary slab pake attrition (yes dan no)
-Bikin table detail karyawan non aktif per job dan satisfaction level
-bikin grafik distribusi umur
-orang keluar by gender
+(DONE) perbandingan salary slab pake attrition (yes dan no)
+(DONE) Bikin table detail karyawan non aktif per job dan satisfaction level
+(DONE) bikin grafik distribusi umur by departmen
+(PROSES) orang keluar by gender
 orang keluar by experience
-orang aktif by department
+(DONE) orang aktif by department
 
 SLICER:
 department
