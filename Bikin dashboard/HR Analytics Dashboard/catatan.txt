@@ -14,20 +14,20 @@ Bikin KPI: background color #F5F8FF
 (DONE) Atrition rate %
 (DONE) average age
 (DONE) avg experience
-(akhiran aja) KASIH ICON, cari
-SESUAIKAN UKURAN KPI, TERLALU GEDE
+(PROSES) KASIH ICON, cari
+(DONE) SESUAIKAN UKURAN KPI, TERLALU GEDE
 
 VISUALISASI:
 (DONE) orang non aktif by department
 (DONE) perbandingan salary slab pake attrition (yes dan no)
 (DONE) Bikin table detail karyawan non aktif per job dan satisfaction level
 (DONE) bikin grafik distribusi umur by departmen
-(PROSES) orang keluar by gender
-orang keluar by experience
+(DONE) orang keluar by gender
+(DONE) orang keluar by experience
 (DONE) orang aktif by department
 
 SLICER:
-department
-Age group
+(DONE) department
+(DONE) Age group
 
 RAPIKANN
