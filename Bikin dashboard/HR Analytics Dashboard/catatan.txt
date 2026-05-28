@@ -30,4 +30,4 @@ SLICER:
 (DONE) department
 (DONE) Age group
 
-RAPIKANN
+(PROSES) RAPIKANN
