@@ -14,7 +14,7 @@ Bikin KPI: background color #F5F8FF
 (DONE) Atrition rate %
 (DONE) average age
 (DONE) avg experience
-(PROSES) KASIH ICON, cari
+(DONE) KASIH ICON, cari
 (DONE) SESUAIKAN UKURAN KPI, TERLALU GEDE
 
 VISUALISASI:
@@ -30,4 +30,4 @@ SLICER:
 (DONE) department
 (DONE) Age group
 
-(PROSES) RAPIKANN
+(DONE) RAPIKANN
